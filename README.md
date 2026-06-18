@@ -1,7 +1,7 @@
 # ¡Hola! Soy Chantell 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username[chantellgebauer]&color=blue&style=flat-square" alt="Vistas de perfil" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGVQ_cVaLCdLg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678735941905?e=1783555200&v=beta&t=Q8qBSocQZXE4xK-LyS39-OljYS8wvmnKJnETYGPlmTE" alt="Vistas de perfil" />
 </p>
 
 ### 👨‍💻 Sobre mí
