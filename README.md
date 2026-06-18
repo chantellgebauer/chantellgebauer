@@ -5,12 +5,12 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-Soy un apasionado de la tecnología enfocado en **[Tu Especialidad, ej: Desarrollo Web / Datos / Ciberseguridad]**. Me encanta resolver problemas complejos y aprender herramientas nuevas cada día.
+Soy una apasionada de la tecnología enfocada en **[ Desarrollo Web / Datos / Ciberseguridad/ Metaverso]**. Me encanta resolver problemas complejos y aprender herramientas nuevas cada día.
 
-- 🔭 Actualmente estoy trabajando en **Analisis avanzaso de Datos**.
-- 🌱 Estoy aprendiendo **Python**.
+- 🔭 Actualmente estoy trabajando en **Analisis avanzado de Datos**.
+- 🌱 Estoy aprendiendo **Data Analisis, Data Engenier**.
 - 💬 Pregúntame sobre **Formación**.
-- ⚡ Dato curioso: **Me gusta el vino y los paseos largos con mi perra**.
+- ⚡ Dato curioso: **Aprendo mientras eneseño**.
 
 ---
 
@@ -34,21 +34,11 @@ Soy un apasionado de la tecnología enfocado en **[Tu Especialidad, ej: Desarrol
 
 ### 📬 Conecta conmigo
 <p align="left">
-<a href="[Tu Link de LinkedIn]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:[Tu Email]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="[www.linkedin.com/in/chantell-gebauer]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:chantellgebauer@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!--
 **chantellgebauer/chantellgebauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
