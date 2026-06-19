@@ -26,8 +26,8 @@ Soy una apasionada de la tecnología enfocada en **[ Desarrollo Web / Datos / Ci
 
 ### 📊 Mis estadísticas de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-AQUÍ]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-AQUÍ]&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[chantellgebauer]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[chantellgebauer]&layout=compact&theme=radical" />
 </p>
 
 ---
