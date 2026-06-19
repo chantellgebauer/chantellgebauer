@@ -24,14 +24,6 @@ Soy una apasionada de la tecnología enfocada en **[ Desarrollo Web / Datos / Ci
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[chantellgebauer]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[chantellgebauer]&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📬 Conecta conmigo
 <p align="left">
 <a href="[www.linkedin.com/in/chantell-gebauer]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
