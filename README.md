@@ -10,7 +10,7 @@ Soy una apasionada de la tecnología enfocada en **[ Desarrollo Web / Datos / Ci
 - 🔭 Actualmente estoy trabajando en **Analisis avanzado de Datos**.
 - 🌱 Estoy aprendiendo **Data Analisis, Data Engenier**.
 - 💬 Pregúntame sobre **Formación**.
-- ⚡ Dato curioso: **Aprendo mientras eneseño**.
+- ⚡ Dato curioso: **Aprendo mientras enseño**.
 
 ---
 
